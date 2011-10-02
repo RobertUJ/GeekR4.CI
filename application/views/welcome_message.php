@@ -19,9 +19,12 @@
   
   <!-- Style -->
   <link rel="stylesheet" media="screen" type="text/css" href="<?= base_url(); ?>assets/css/reset.css" />
+  <link rel="stylesheet" media="screen" type="text/css" href="<?= base_url(); ?>assets/css/ui-lightness/jquery-ui-1.8.16.custom.css" />
+  <link rel="stylesheet" media="screen" type="text/css" href="<?= base_url(); ?>assets/css/site.css" />
   
   <!-- Script -->
   <script type="text/javascript" language="JavaScript" src="<?= base_url();?>assets/js/jquery.js"></script>
+  <script type="text/javascript" language="JavaScript" src="<?= base_url();?>assets/js/jquery-ui-1.8.16.custom.min.js"></script>
   <script type="text/javascript" language="JavaScript" src="<?= base_url();?>assets/js/js.js"></script>
   
   
@@ -32,6 +35,7 @@
     <header>
       <h1 id="tst">templates</h1>
     </header>
+    <br/>
     <nav>
       <p><a href="/GeekR4.CI">Home</a></p>
       <p><a href="/contact">Contact</a></p>
