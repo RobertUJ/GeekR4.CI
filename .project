@@ -3,6 +3,7 @@
 	<name>GeekR4.CI</name>
 	<comment></comment>
 	<projects>
+		<project>CI_BASE</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
